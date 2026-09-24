@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Example Hospital (replace with a real one)",
+    "hospitalType": "multispecialty",
+    "address": "Street address of the hospital",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "latitude": 22.7196,
+    "longitude": 75.8577,
+    "phone": "0731-0000000",
+    "emergencyPhone": "0731-0000001",
+    "email": "",
+    "website": "",
+    "description": "",
+    "accreditation": "",
+    "establishedYear": null,
+    "ambulance": false,
+    "is24x7": false,
+    "adminName": "Hospital admin name",
+    "adminEmail": "admin@hospital-domain.example",
+    "adminPassword": "choose-a-strong-password"
+  }
+]
